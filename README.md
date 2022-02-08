@@ -18,7 +18,12 @@ Link to application:
 https://mickieburch.github.io/weather-dashboard/
 
 Demo
-https://user-images.githubusercontent.com/93951895/152897914-3e779608-2a77-4f57-ac1d-28ced2c13c40.mp4
+
+
+
+
+https://user-images.githubusercontent.com/93951895/152898004-5a505817-bf18-439c-970e-d141cbec00ac.mp4
+
 
 
 
