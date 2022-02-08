@@ -1,4 +1,4 @@
-*Day Planner*
+*Weather dashboard*
 
 
 **Description**
@@ -18,6 +18,8 @@ Link to application:
 https://mickieburch.github.io/weather-dashboard/
 
 Demo
+
+
 
 Sources
 Youtube
